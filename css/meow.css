@@ -27,7 +27,8 @@ header {
 }
 hgroup {}
 h1, h2 {margin: 0; line-height: 100%; font-family: 'Rock Salt', cursive; color: #f7e948;}
-.category {display: flex; margin: 2em auto; justify-content: flex-start; flex-wrap: wrap}
+.category {display: flex; margin: 2em auto; justify-content: space-evenly; flex-wrap: wrap}
+.main {max-width: 80em; margin: 0 auto;}
 .product {
     background: rgba(246, 166, 214, .8);
     padding: 1em;

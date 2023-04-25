@@ -15,7 +15,7 @@
   Join our group order for volume discounts!
 </p>
 </header>
-<section id="catalog" role="main">
+<section id="catalog" role="main" class="main">
   <h2>Tops</h2>
   <div class="category" id="tops">
 
