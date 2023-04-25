@@ -1,0 +1,57 @@
+/*
+
+Light blue 54c0e8
+Black 101820
+Blue 000f9e
+Purple 9e28b5
+Pink e60a95
+Orange ff4712
+Light Pink f6a6d6
+Yellow f7e948
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+html {margin: 0; padding: 0;}
+body {
+  background: #000f9e url('background.png') 0% 0% fixed no-repeat;
+  background-size: 100%;
+  text-align: center;
+  padding: 1em;
+  font-family: monospace;
+}
+header {
+  color: #f7e948;
+  margin: 2em 0;
+}
+hgroup {}
+h1, h2 {margin: 0; line-height: 100%; font-family: 'Rock Salt', cursive; color: #f7e948;}
+.category {display: flex; margin: 2em auto; justify-content: flex-start; flex-wrap: wrap}
+.product {
+    background: rgba(246, 166, 214, .8);
+    padding: 1em;
+    border-radius: 1em;
+    width: 20em;
+    margin: 1em;
+}
+.photo-album {list-sty le-type: none; margin: 0; padding: 0;}
+.photo-album li {margin: 0;}
+.photo-album img {max-width: 100%;}
+.photo-album a img:hover {background: transparent url("cloud.png") 50% 50% no-repeat; background-size: 90%;}
+h3 {color: #101820; margin-top: none; font-size: 1.5em;}
+.prices {font-size: 1.5em;}
+.price-retail {text-decoration: line-through;}
+.price-sale { background: url("burst.png") 50% 50% no-repeat; padding: .5em; display: inline-block; border-radius: 1em; background-size: 100% 100%;}
+button {
+  background: #e60a95;
+  color: #ffffff;
+  border: none;
+  padding: 1em;
+  border-radius: 1em;
+  display: inline-block;
+  width: 100%;
+  text-transform: uppercase;
+  font-family: monospace;
+}
+button:hover {cursor: pointer;}
