@@ -16,25 +16,27 @@ Yellow f7e948
 html {margin: 0; padding: 0;}
 body {
   background: #000f9e url('background.png') 0% 0% fixed no-repeat;
-  background-size: 100%;
+  background-size: auto 150%;
   text-align: center;
-  padding: 1em;
   font-family: monospace;
+  margin: 0; padding: 0;
 }
 header {
   color: #f7e948;
-  margin: 2em 0;
+  margin: 0 0 2em 0;
+  padding: 1em;
+  background-color: #000f9e;
+  border-bottom: 1px solid #54c0e8;
 }
 hgroup {}
 h1, h2 {margin: 0; line-height: 100%; font-family: 'Rock Salt', cursive; color: #f7e948;}
-.category {display: flex; margin: 2em auto; justify-content: space-evenly; flex-wrap: wrap}
+.category {margin: 2em;}
 .main {max-width: 80em; margin: 0 auto;}
 .product {
     background: rgba(246, 166, 214, .8);
     padding: 1em;
     border-radius: 1em;
-    width: 100%;
-    margin: 1em;
+    margin: 2em 0;
 }
 .photo-album {list-sty le-type: none; margin: 0; padding: 0;}
 .photo-album li {margin: 0;}
@@ -58,5 +60,6 @@ button {
 button:hover {cursor: pointer;}
 
 @media (min-width: 50em) {
+  .category {display: flex; margin: 2em auto; justify-content: space-evenly; flex-wrap: wrap;}
   .product {width: 20em;}
 }

@@ -3,6 +3,7 @@
 <head>
 <title>Team Snacks Cat Kit Launch</title>
 <link rel="stylesheet" type="text/css" href="css/meow.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
@@ -21,8 +22,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/Road%20Jersey%20Back@4x.png">
-          <img src="photos/small/Road%20Jersey%20Back@4x.png" alt="Jersey Back View" />
+        <li><a href="photos/large/road-jersey-back.png">
+          <img src="photos/small/road-jersey-back.png" alt="Jersey Back View" />
         </a></li>
       </ul>
       <h3>Quick Cat Cycling Jersey</h3>
@@ -37,8 +38,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/MTB%20Jersey%20Back@4x.png">
-          <img src="photos/small/MTB%20Jersey%20Back@4x.png" alt="Jersey Back View" />
+        <li><a href="photos/large/mtb-jersey-back.png">
+          <img src="photos/small/mtb-jersey-back.png" alt="Jersey Back View" />
         </a></li>
       </ul>
       <h3>Quick Cat Mountain Biking Jersey</h3>
@@ -54,8 +55,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/Gillet%20Back@4x.png">
-          <img src="photos/small/Gillet%20Back@4x.png" alt="Gillet Back View" />
+        <li><a href="photos/large/gillet-back.png">
+          <img src="photos/small/gillet-back.png" alt="Gillet Back View" />
         </a></li>
       </ul>
       <h3>Quick Cat Gillet</h3>
@@ -71,7 +72,7 @@
     <div class="product">
       <ul class="photo-album">
         <li>
-          <img src="photos/small/cloud%20purple.png" alt="Photo Coming Soon" />
+          <img src="photos/small/cloud-purple.png" alt="Photo Coming Soon" />
     </li>
       </ul>
       <h3>Quick Cat T-Shirt</h3>
@@ -87,7 +88,7 @@
     <div class="product">
       <ul class="photo-album">
         <li>
-          <img src="photos/small/cloud%20purple.png" alt="Photo Coming Soon" />
+          <img src="photos/small/cloud-purple.png" alt="Photo Coming Soon" />
     </li>
       </ul>
       <h3>Ride or Pie T-Shirt</h3>
@@ -103,7 +104,7 @@
     <div class="product">
       <ul class="photo-album">
         <li>
-          <img src="photos/small/cloud%20purple.png" alt="Photo Coming Soon" />
+          <img src="photos/small/cloud-purple.png" alt="Photo Coming Soon" />
     </li>
       </ul>
       <h3>Quick Cat Tank Top</h3>
@@ -119,7 +120,7 @@
     <div class="product">
       <ul class="photo-album">
         <li>
-          <img src="photos/small/cloud%20purple.png" alt="Photo Coming Soon" />
+          <img src="photos/small/cloud-purple.png" alt="Photo Coming Soon" />
     </li>
       </ul>
       <h3>Donut Rascal Sports Bra</h3>
@@ -138,8 +139,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/Bib%20Medium %20Front@4x.png">
-          <img src="photos/small/Bib%20Medium%20Front@4x.png" alt="Bibs Front View" />
+        <li><a href="photos/large/bib-medium-front.png">
+          <img src="photos/small/bib-medium-front.png" alt="Bibs Front View" />
         </a></li>
       </ul>
       <h3>Quick Cat Cycling Bibs</h3>
@@ -155,8 +156,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/Bib%20Dark %20Front@4x.png">
-          <img src="photos/small/Bib%20Dark%20Front@4x.png" alt="Bibs Front View" />
+        <li><a href="photos/large/bib-dark-front.png">
+          <img src="photos/small/bib-dark-front.png" alt="Bibs Front View" />
         </a></li>
       </ul>
       <h3>Ride or Pie Cycling Bibs</h3>
@@ -171,8 +172,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/Bib%20Light %20Front@4x.png">
-          <img src="photos/small/Bib%20Light%20Front@4x.png" alt="Bibs Front View" />
+        <li><a href="photos/large/bib-light-front.png">
+          <img src="photos/small/bib-light-front.png" alt="Bibs Front View" />
         </a></li>
       </ul>
       <h3>Donut Rascal Cycling Bibs</h3>
@@ -187,8 +188,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/MTB%20Shorts%20Front@4x.png">
-          <img src="photos/small/MTB%20Shorts%20Front@4x.png" alt="Mountain Bike Shorts Front View" />
+        <li><a href="photos/large/mtb-shorts-front.png">
+          <img src="photos/small/mtb-shorts-front.png" alt="Mountain Bike Shorts Front View" />
         </a></li>
       </ul>
       <h3>Quick Cat Mountain Biking Shorts</h3>
@@ -209,8 +210,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/Arm%20Warmers@4x.png">
-          <img src="photos/small/Arm%20Warmers@4x.png" alt="Arm Warmers" />
+        <li><a href="photos/large/arm-warmers.png">
+          <img src="photos/small/arm-warmers.png" alt="Arm Warmers" />
         </a></li>
       </ul>
       <h3>Donut Rascal Arm Warmers</h3>
@@ -225,8 +226,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/Gloves%20Front@4x.png">
-          <img src="photos/small/Gloves%20Front@4x.png" alt="Gloves Side View" />
+        <li><a href="photos/large/gloves-front.png">
+          <img src="photos/small/gloves-front.png" alt="Gloves Side View" />
         </a></li>
       </ul>
       <h3>Pink Leopard Speed Gloves</h3>
@@ -241,8 +242,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/Cap%20Right@4x.png">
-          <img src="photos/small/Cap%20Right@4x.png" alt="Cycling Cap" />
+        <li><a href="photos/large/cap-right.png">
+          <img src="photos/small/cap-right.png" alt="Cycling Cap" />
         </a></li>
       </ul>
       <h3>Quick Cat Cycling Cap</h3>
@@ -257,8 +258,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/Running%20Cap%20Right@4x.png">
-          <img src="photos/small/Running%20Cap%20Right@4x.png" alt="Cycling Cap" />
+        <li><a href="photos/large/street-cap-right.png">
+          <img src="photos/small/street-cap-right.png" alt="Cycling Cap" />
         </a></li>
       </ul>
       <h3>Donut Rascal Street Cap</h3>
@@ -273,8 +274,8 @@
 
     <div class="product">
       <ul class="photo-album">
-        <li><a href="photos/large/Socks@4x.png">
-          <img src="photos/small/Socks@4x.png" alt="Cycling Cap" />
+        <li><a href="photos/large/socks.png">
+          <img src="photos/small/socks.png" alt="Cycling Cap" />
         </a></li>
       </ul>
       <h3>Snack Socks</h3>
@@ -290,7 +291,7 @@
     <div class="product">
       <ul class="photo-album">
         <li>
-          <img src="photos/small/cloud%20purple.png" alt="Photo Coming Soon" />
+          <img src="photos/small/cloud-purple.png" alt="Photo Coming Soon" />
     </li>
       </ul>
       <h3>Donut Rascal Bandana</h3>
