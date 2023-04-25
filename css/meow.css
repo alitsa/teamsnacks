@@ -30,6 +30,7 @@ header {
 }
 hgroup {}
 h1, h2 {margin: 0; line-height: 100%; font-family: 'Rock Salt', cursive; color: #f7e948;}
+img {max-width: 100%;}
 .category {margin: 2em;}
 .main {max-width: 80em; margin: 0 auto;}
 .product {
@@ -40,7 +41,6 @@ h1, h2 {margin: 0; line-height: 100%; font-family: 'Rock Salt', cursive; color: 
 }
 .photo-album {list-sty le-type: none; margin: 0; padding: 0;}
 .photo-album li {margin: 0;}
-.photo-album img {max-width: 100%;}
 .photo-album a img:hover {background: transparent url("cloud.png") 50% 50% no-repeat; background-size: 90%;}
 h3 {color: #101820; margin-top: none; font-size: 1.5em;}
 .prices {font-size: 1.5em;}
