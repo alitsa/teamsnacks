@@ -28,7 +28,7 @@
       </ul>
       <h3>Quick Cat Cycling Jersey</h3>
       <p class="prices">
-        <span class="price-retail">$100</span>
+        <span class="price-retail">$160</span>
         <span class="price-sale">$60</span>
       </p>
       <p>
@@ -44,7 +44,7 @@
       </ul>
       <h3>Quick Cat Mountain Biking Jersey</h3>
       <p class="prices">
-        <span class="price-retail">$100</span>
+        <span class="price-retail">$146</span>
         <span class="price-sale">$60</span>
       </p>
       <p>
@@ -61,7 +61,7 @@
       </ul>
       <h3>Quick Cat Gillet</h3>
       <p class="prices">
-        <span class="price-retail">$60</span>
+        <span class="price-retail">$160</span>
         <span class="price-sale">$55</span>
       </p>
       <p>
@@ -77,8 +77,8 @@
       </ul>
       <h3>Quick Cat T-Shirt</h3>
       <p class="prices">
-        <span class="price-retail">$30</span>
-        <span class="price-sale">$28</span>
+        <span class="price-retail">$???</span>
+        <span class="price-sale">$???</span>
       </p>
       <p>
         <button>Add to Cart</button>
@@ -93,8 +93,8 @@
       </ul>
       <h3>Ride or Pie T-Shirt</h3>
       <p class="prices">
-        <span class="price-retail">$30</span>
-        <span class="price-sale">$28</span>
+        <span class="price-retail">$???</span>
+        <span class="price-sale">$???</span>
       </p>
       <p>
         <button>Add to Cart</button>
@@ -109,8 +109,8 @@
       </ul>
       <h3>Quick Cat Tank Top</h3>
       <p class="prices">
-        <span class="price-retail">$28</span>
-        <span class="price-sale">$26</span>
+        <span class="price-retail">$???</span>
+        <span class="price-sale">$???</span>
       </p>
       <p>
         <button>Add to Cart</button>
@@ -125,8 +125,8 @@
       </ul>
       <h3>Donut Rascal Sports Bra</h3>
       <p class="prices">
-        <span class="price-retail">$42</span>
-        <span class="price-sale">$38</span>
+        <span class="price-retail">$???</span>
+        <span class="price-sale">$???</span>
       </p>
       <p>
         <button>Add to Cart</button>
@@ -143,9 +143,9 @@
           <img src="photos/small/bib-medium-front.png" alt="Bibs Front View" />
         </a></li>
       </ul>
-      <h3>Quick Cat Cycling Bibs</h3>
+      <h3>Quick Cat Pro Cycling Bibs</h3>
       <p class="prices">
-        <span class="price-retail">$160</span>
+        <span class="price-retail">$230</span>
         <span class="price-sale">$140</span>
       </p>
       <p>
@@ -160,9 +160,9 @@
           <img src="photos/small/bib-dark-front.png" alt="Bibs Front View" />
         </a></li>
       </ul>
-      <h3>Ride or Pie Cycling Bibs</h3>
+      <h3>Ride or Pie Pro Cycling Bibs</h3>
       <p class="prices">
-        <span class="price-retail">$160</span>
+        <span class="price-retail">$230</span>
         <span class="price-sale">$140</span>
       </p>
       <p>
@@ -176,9 +176,9 @@
           <img src="photos/small/bib-light-front.png" alt="Bibs Front View" />
         </a></li>
       </ul>
-      <h3>Donut Rascal Cycling Bibs</h3>
+      <h3>Donut Rascal Pro Cycling Bibs</h3>
       <p class="prices">
-        <span class="price-retail">$160</span>
+        <span class="price-retail">$230</span>
         <span class="price-sale">$140</span>
       </p>
       <p>
@@ -194,7 +194,7 @@
       </ul>
       <h3>Quick Cat Mountain Biking Shorts</h3>
       <p class="prices">
-        <span class="price-retail">$150</span>
+        <span class="price-retail">$220</span>
         <span class="price-sale">$140</span>
       </p>
       <p>
@@ -216,7 +216,23 @@
       </ul>
       <h3>Donut Rascal Arm Warmers</h3>
       <p class="prices">
-        <span class="price-retail">$40</span>
+        <span class="price-retail">$35</span>
+        <span class="price-sale">$30</span>
+      </p>
+      <p>
+        <button>Add to Cart</button>
+      </p>
+    </div>
+
+    <div class="product">
+      <ul class="photo-album">
+        <li><a href="photos/large/arm-warmers.png">
+          <img src="photos/small/arm-warmers.png" alt="Arm Warmers" />
+        </a></li>
+      </ul>
+      <h3>Donut Rascal Sun Sleeves</h3>
+      <p class="prices">
+        <span class="price-retail">$30</span>
         <span class="price-sale">$30</span>
       </p>
       <p>
@@ -232,7 +248,7 @@
       </ul>
       <h3>Pink Leopard Speed Gloves</h3>
       <p class="prices">
-        <span class="price-retail">$32</span>
+        <span class="price-retail">$35</span>
         <span class="price-sale">$28</span>
       </p>
       <p>
@@ -248,7 +264,7 @@
       </ul>
       <h3>Quick Cat Cycling Cap</h3>
       <p class="prices">
-        <span class="price-retail">$32</span>
+        <span class="price-retail">$25</span>
         <span class="price-sale">$28</span>
       </p>
       <p>
@@ -264,7 +280,7 @@
       </ul>
       <h3>Donut Rascal Street Cap</h3>
       <p class="prices">
-        <span class="price-retail">$32</span>
+        <span class="price-retail">$25</span>
         <span class="price-sale">$28</span>
       </p>
       <p>
@@ -280,7 +296,7 @@
       </ul>
       <h3>Snack Socks</h3>
       <p class="prices">
-        <span class="price-retail">$16</span>
+        <span class="price-retail">$20</span>
         <span class="price-sale">$10</span>
       </p>
       <p>
