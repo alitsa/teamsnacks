@@ -15,7 +15,8 @@ Yellow f7e948
 
 html {margin: 0; padding: 0;}
 body {
-  background: #000f9e url('background.png') 0% 0% fixed no-repeat;
+  /* background: #000f9e url('background.png') 0% 0% fixed no-repeat;*/
+  background-color: red;
   background-size: auto 150%;
   text-align: center;
   font-family: monospace;
